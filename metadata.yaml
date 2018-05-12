@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31749'
     url: http://www.gutenberg.org/2009/agents/31749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26033#How-I-Know-God-Answers-PrayerThe-Personal-Testimony-of-One-Life-Time
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
